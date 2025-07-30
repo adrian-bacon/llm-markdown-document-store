@@ -31,7 +31,7 @@ To install this toolset, simply add it to your Open WebUI tools list:
 
 1. Navigate to the `Tools` tab under the `Workspaces` section.
 2. Click the plus (+) button to add a new tool.
-3. Copy/Paste the contents of [`llm_markdown_document_store.py`](llm_markdown_document_store.py) into the code window
+3. Copy/Paste the contents of [`llm_markdown_document_store.py`](./llm_markdown_document_store.py) into the code window
 4. Fill in the tool name and description fields and click save, then confirm.
 
 ----
